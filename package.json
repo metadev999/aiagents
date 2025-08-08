@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-  "build": "NODE_OPTIONS=--openssl-legacy-provider webpack",
+  "build": "NODE_OPTIONS=--openssl-legacy-provider webpack && cp index.html dist/index.html",
   "dev": "NODE_OPTIONS=--openssl-legacy-provider webpack serve --open",
   "watch": "NODE_OPTIONS=--openssl-legacy-provider webpack --progress --watch",
   "test": "echo \"Error: no test specified\" && exit 1"
