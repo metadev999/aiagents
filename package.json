@@ -4,11 +4,11 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "build": "set NODE_OPTIONS=--openssl-legacy-provider && webpack",
-    "dev": "set NODE_OPTIONS=--openssl-legacy-provider && webpack serve --open",
-    "watch": "set NODE_OPTIONS=--openssl-legacy-provider && webpack --progress --watch",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "build": "NODE_OPTIONS=--openssl-legacy-provider webpack",
+  "dev": "NODE_OPTIONS=--openssl-legacy-provider webpack serve --open",
+  "watch": "NODE_OPTIONS=--openssl-legacy-provider webpack --progress --watch",
+  "test": "echo \"Error: no test specified\" && exit 1"
+},
   "author": "Samuel Reed <samuel.trace.reed@gmail.com> (http://strml.net/)",
   "license": "MIT",
   "devDependencies": {
