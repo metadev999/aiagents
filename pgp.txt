@@ -1,4 +1,4 @@
-## BEGIN samuel trace reed (ät) gmail com ##
+## BEGIN blabber.mesh.pubkey (visible on active link) ##
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -120,8 +120,7 @@ hjbIem327A==
 -----END PGP PUBLIC KEY BLOCK-----
 
 
-## END samuel trace reed (ät) gmail com ##
-## BEGIN sam (ät) bitmex com ##
+## END blabber.mesh.pubkey (visible on active link) ## 
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -380,4 +379,4 @@ tgqmxX6f/893eCvlICk7jok=
 =XsJS
 -----END PGP PUBLIC KEY BLOCK-----
 
-## END sam (ät) bitmex com ##
+## END blabber.mesh.session ##
